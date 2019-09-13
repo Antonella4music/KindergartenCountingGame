@@ -1,0 +1,2 @@
+# KindergartenCountingGame
+C# - mini alg
