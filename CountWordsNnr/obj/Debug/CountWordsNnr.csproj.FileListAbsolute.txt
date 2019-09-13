@@ -1,0 +1,25 @@
+C:\Users\Antonella\Desktop\CountWordsNnr\CountWordsNnr\bin\Debug\CountWordsNnr.exe.config
+C:\Users\Antonella\Desktop\CountWordsNnr\CountWordsNnr\bin\Debug\CountWordsNnr.exe
+C:\Users\Antonella\Desktop\CountWordsNnr\CountWordsNnr\bin\Debug\CountWordsNnr.pdb
+C:\Users\Antonella\Desktop\CountWordsNnr\CountWordsNnr\obj\Debug\CountWordsNnr.csprojResolveAssemblyReference.cache
+C:\Users\Antonella\Desktop\CountWordsNnr\CountWordsNnr\obj\Debug\CountWordsNnr.exe
+C:\Users\Antonella\Desktop\CountWordsNnr\CountWordsNnr\obj\Debug\CountWordsNnr.pdb
+C:\SCUOLA\anul 4 io\PAlg\PAlg project\My project - find words nr\CountWordsNnr\CountWordsNnr\bin\Debug\CountWordsNnr.exe.config
+C:\SCUOLA\anul 4 io\PAlg\PAlg project\My project - find words nr\CountWordsNnr\CountWordsNnr\obj\Debug\CountWordsNnr.exe
+C:\SCUOLA\anul 4 io\PAlg\PAlg project\My project - find words nr\CountWordsNnr\CountWordsNnr\obj\Debug\CountWordsNnr.pdb
+C:\SCUOLA\anul 4 io\PAlg\PAlg project\My project - find words nr\CountWordsNnr\CountWordsNnr\bin\Debug\CountWordsNnr.exe
+C:\SCUOLA\anul 4 io\PAlg\PAlg project\My project - find words nr\CountWordsNnr\CountWordsNnr\bin\Debug\CountWordsNnr.pdb
+C:\SCUOLA\anul 4 io\PAlg\PAlg project\My project - find words nr\CountWordsNnr\CountWordsNnr\obj\Debug\CountWordsNnr.csprojResolveAssemblyReference.cache
+C:\Users\AntonellaB\Desktop\proiecte\college projects\My project - find words nr\CountWordsNnr\CountWordsNnr\bin\Debug\CountWordsNnr.exe.config
+C:\Users\AntonellaB\Desktop\proiecte\college projects\My project - find words nr\CountWordsNnr\CountWordsNnr\obj\Debug\CountWordsNnr.exe
+C:\Users\AntonellaB\Desktop\proiecte\college projects\My project - find words nr\CountWordsNnr\CountWordsNnr\obj\Debug\CountWordsNnr.pdb
+C:\Users\AntonellaB\Desktop\proiecte\college projects\My project - find words nr\CountWordsNnr\CountWordsNnr\bin\Debug\CountWordsNnr.exe
+C:\Users\AntonellaB\Desktop\proiecte\college projects\My project - find words nr\CountWordsNnr\CountWordsNnr\bin\Debug\CountWordsNnr.pdb
+C:\Users\AntonellaB\Desktop\proiecte\college projects\My project - find words nr\CountWordsNnr\CountWordsNnr\obj\Debug\CountWordsNnr.csprojResolveAssemblyReference.cache
+C:\Git\stuff\KindergartenCountingGame\CountWordsNnr\bin\Debug\CountWordsNnr.exe.config
+C:\Git\stuff\KindergartenCountingGame\CountWordsNnr\bin\Debug\CountWordsNnr.exe
+C:\Git\stuff\KindergartenCountingGame\CountWordsNnr\bin\Debug\CountWordsNnr.pdb
+C:\Git\stuff\KindergartenCountingGame\CountWordsNnr\obj\Debug\CountWordsNnr.csprojAssemblyReference.cache
+C:\Git\stuff\KindergartenCountingGame\CountWordsNnr\obj\Debug\CountWordsNnr.csproj.CoreCompileInputs.cache
+C:\Git\stuff\KindergartenCountingGame\CountWordsNnr\obj\Debug\CountWordsNnr.exe
+C:\Git\stuff\KindergartenCountingGame\CountWordsNnr\obj\Debug\CountWordsNnr.pdb
